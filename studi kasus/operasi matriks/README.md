@@ -1,0 +1,2 @@
+# Operasi Matriks
+Matriks merupakan salah satu prinsip matematika yang sering digunakan jika berurusan dengan data. Dengan mengetahui bagaimana menerapkan operasi matriks dalam Python, dapat sangat membantu dalam penyelesaiannya apalagi jika berurusan dengan matriks berordo banyak. Pada kesempatan kali ini akan dilakukan operasi matriks seperti pengurangan, penjumlahan, perkalian (dot dan cross product), dan pembagian (Matriks Invers), dengan menggunakan matriks ordo 3x3, namun dapat digunakan untuk semua ordo (berguna untuk permasalahan dengan data jumlah besar).
