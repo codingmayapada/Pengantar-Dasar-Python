@@ -10,6 +10,6 @@ Bisa juga menggunakan GitHub Sync sehingga tidak perlu mengunduh file.
 
 Dikutip dari GitHub HMGI
 
-Divisi Penelitian dan Pengembangan;
-Departemen Keilmuan;
-HMTG Mayapada ITERA;
+Divisi Penelitian dan Pengembangan,
+Departemen Keilmuan,
+HMTG Mayapada ITERA
