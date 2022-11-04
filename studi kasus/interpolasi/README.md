@@ -1,0 +1,2 @@
+# Interpolasi
+Interpolasi merupakan salah satu metode yang sangat membantu seorang geofisikawan dalam menganalisis data. Ide untuk menemukan data yang baru berdasarkan data yang ada sangat membantu geofisikawan mengurangi biaya survei dan pengolahan. Kali ini akan dilakukan interpolasi dengan tiga metode, yaitu metode Polinomial Lagrange, metode Divide Difference dan metode Newton-Gregory Forward dan Backward
