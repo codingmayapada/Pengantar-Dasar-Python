@@ -8,7 +8,7 @@ Merupakan repository untuk pengantar dasar-dasar Python, yaitu pengenalan objek,
 
 Bisa juga menggunakan GitHub Sync sehingga tidak perlu mengunduh file.
 
-TTD Penanggung Jawab
-
-Divisi Riset dan Inovasi #ristek.hmgi@gmail.com
-
+Dikutip dari GitHub HMGI
+Divisi Penelitian dan Pengembangan
+Departemen Keilmuan
+HMTG Mayapada ITERA
